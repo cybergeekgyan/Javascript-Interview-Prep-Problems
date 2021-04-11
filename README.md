@@ -128,7 +128,7 @@ for (let name of names) console.log(name);
 
 In JS you can  also get the time that the code was executed in like Google does:
 
-google example
+![alt text](https://github.com/gyanprakash0221/Javascript-Tips-Tricks-/blob/main/i7ed89oyhcyyjhqirvc6.png)
 
 It looks like this:
 ```Js
