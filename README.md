@@ -1,4 +1,4 @@
-## 8-Javascript-Tips-Tricks-
+## Javascript-Tips-Tricks-
 
 ### Functional Inheritance
 
