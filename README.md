@@ -1,4 +1,48 @@
-## Javascript-Tips-Tricks-
+# Javascript-Interview-Prep-Problems
+
+#### Javascript Important Topics & Concepts
+
+| Level	| Concepts/Topics |
+|-------|--------|
+| Beginner| - Variables and Data Types|
+| | - Operators and Expressions|
+| |- Control Flow (if statements, loops)
+| |- Functions and Scope
+| |- Arrays and Objects
+| |- DOM Manipulation
+| |- Events and Event Handling
+| |- Basic Asynchronous JavaScript (Callbacks, Promises)
+| |- Error Handling
+| |- Working with Strings
+| |- Working with Dates
+| |- Debugging using Browser Developer Tools
+| |- Introduction to ES6+ Features (let/const, arrow functions)
+| |- Introduction to npm and package management
+| Intermediate	| - Closures and Lexical Scoping 
+| |- Advanced DOM Manipulation
+| |- Fetch API and AJAX
+| |- Promises and Asynchronous Patterns
+| |- ES6+ Features (destructuring, spread/rest operators)
+| |- Modules and Module Bundlers (e.g., Webpack)
+| |- Working with JSON
+| |- Regular Expressions
+| |- Functional Programming Concepts (map, filter, reduce)
+| |- Unit Testing (e.g., Jest)
+| |- Browser Storage (localStorage, sessionStorage)
+| |- Responsive Design and Media Queries
+| Advanced	| - Prototypal Inheritance and OOP in JavaScript
+| |- Advanced Asynchronous Patterns (Async/Await)
+| |- Web Components and Shadow DOM
+| |- Service Workers and Progressive Web Apps (PWAs)
+| |- Reactive Programming (e.g., RxJS)
+| |- TypeScript (optional static typing for JavaScript)
+| |- Memory Management and Performance Optimization
+| | - Design Patterns in JavaScript
+| |- Security Best Practices (e.g., Cross-Site Scripting)
+| |- Node.js and Server-Side JavaScript
+| |- Frameworks and Libraries (e.g., React, Angular, Vue.js)
+| |- Building and Deploying JavaScript Applications
+
 
 ### Functional Inheritance
 
